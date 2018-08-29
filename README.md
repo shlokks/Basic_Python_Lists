@@ -1,2 +1,2 @@
 # Searching-Sorting-Lists-using-Python
-This repository contains some basics and most important programms and algorithms for searching and sorting.
+This repository contains some basics and most important programs and algorithms for searching and sorting.
